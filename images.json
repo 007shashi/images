@@ -1,0 +1,24 @@
+{
+    "product": {
+    "images":[
+    {
+        "src": "https://images.unsplash.com/photo-1632162451754-457b6ebd9720"
+    },
+    {
+        "src": "https://images.unsplash.com/photo-1632162451349-928b87b90e6f"
+    },
+    {
+        "src": "https://images.unsplash.com/photo-1632162451349-928b87b90e6f"
+    },
+    {
+        "src": "https://images.unsplash.com/photo-1632162451592-5b25447cb1ac"
+    },
+    {
+        "src": "https://images.unsplash.com/photo-1632162451352-df77c3013f25"
+    },
+    {
+        "src": "https://images.unsplash.com/photo-1632162451609-3f2f0e61311a"
+    }
+    ]
+  }
+}
