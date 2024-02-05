@@ -1,6 +1,4 @@
-{
-    "product": {
-    "images":[
+ {   "images": [
     {
         "src": "https://images.unsplash.com/photo-1632162451754-457b6ebd9720"
     },
@@ -20,5 +18,4 @@
         "src": "https://images.unsplash.com/photo-1632162451609-3f2f0e61311a"
     }
     ]
-  }
 }
